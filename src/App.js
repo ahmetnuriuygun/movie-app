@@ -1,10 +1,18 @@
 import React from 'react'
-import Main from './pages/Main/Main'
 import Router from './router/Router'
 
 
 
 const App = () => {
+
+  
+
+  
+
+  const logout = async () =>{
+    
+  }
+
   return (
     <div>
     <Router/>

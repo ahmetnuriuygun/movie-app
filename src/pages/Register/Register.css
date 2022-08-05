@@ -1,0 +1,14 @@
+.form-group{
+    width: 400px;
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 20px;
+    width: 400px;
+}
+
+
+.loginpage{
+    background-color: rgb(227, 221, 221);
+    height: 100vh;
+}
