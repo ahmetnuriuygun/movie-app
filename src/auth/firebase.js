@@ -21,12 +21,12 @@ import {
 //* https://console.firebase.google.com/ => project settings
 //! firebase console settings bölümünden firebaseconfig ayarlarını al
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_apiKey,
-  authDomain: process.env.REACT_APP_authDomain,
-  projectId: process.env.REACT_APP_projectId,
-  storageBucket: process.env.REACT_APP_storageBucket,
-  messagingSenderId: process.env.REACT_APP_messagingSenderId,
-  appId: process.env.REACT_APP_appId,
+  apiKey: "AIzaSyC0JEnmjYcoC-kP3HnYPUtQghH4uSruFgc",
+  authDomain: "movie-app-solution.firebaseapp.com",
+  projectId: "movie-app-solution",
+  storageBucket: "movie-app-solution.appspot.com",
+  messagingSenderId: "507367360315",
+  appId: "1:507367360315:web:806bedf932c15a8d3e191e"
 };
 
 // Initialize Firebase
